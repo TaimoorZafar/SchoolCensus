@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="955def2d8ee04d598d2a3aaab040ad18" Name="Diagram1">
+        <EntityTypeShape EntityType="SchoolDBModel.AccessToSchool" Width="1.5" PointX="12.75" PointY="123.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.AlternativeSource" Width="1.5" PointX="0.75" PointY="93.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.AreaCovered" Width="1.5" PointX="0.75" PointY="108.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Area" Width="1.5" PointX="3" PointY="98.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.BoundryWall" Width="1.5" PointX="9.75" PointY="73.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.BuildingCondition" Width="1.5" PointX="9.75" PointY="82.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Class" Width="1.5" PointX="0.75" PointY="82.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ClassMedium" Width="1.5" PointX="12.75" PointY="80.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Cleanliness" Width="1.5" PointX="6" PointY="98.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Comment" Width="1.5" PointX="6" PointY="94.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ConstructionType" Width="1.5" PointX="9.75" PointY="79.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Council" Width="1.5" PointX="6" PointY="102.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.CurrentStatu" Width="1.5" PointX="6.75" PointY="82.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Date" Width="1.5" PointX="3.75" PointY="120.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Electricity" Width="1.5" PointX="3" PointY="93.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.EmergencyContact" Width="1.5" PointX="3" PointY="103.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.EMI" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Entity" Width="1.5" PointX="9.75" PointY="64.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Gender" Width="1.5" PointX="3.75" PointY="80.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.GroundSurrounding" Width="1.5" PointX="9" PointY="98.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.HandoverAfterward" Width="1.5" PointX="6.75" PointY="74" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.HardArea" Width="1.5" PointX="12.75" PointY="126" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Hygiene" Width="1.5" PointX="9.75" PointY="132.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.InfraClass" Width="1.5" PointX="9" PointY="90.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.InfraOffice" Width="1.5" PointX="9" PointY="102.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.InfraSpec" Width="1.5" PointX="6" PointY="90.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.InfraStructure" Width="1.5" PointX="12" PointY="97" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Institutions1Km" Width="1.5" PointX="0.75" PointY="89.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.KeyPerson" Width="1.5" PointX="3.75" PointY="123.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.KeyPerson1" Width="1.5" PointX="6" PointY="107.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Lab" Width="1.5" PointX="12" PointY="92.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Licensee" Width="1.5" PointX="12" PointY="105" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.LicenseeSub" Width="1.5" PointX="9.75" PointY="127.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.LicenseeType" Width="1.5" PointX="9.75" PointY="129.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Location" Width="1.5" PointX="12.75" PointY="128.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.LocationRoad" Width="1.5" PointX="12.75" PointY="130.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Medium" Width="1.5" PointX="3.75" PointY="78.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.NearBy" Width="1.5" PointX="3" PointY="88.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.OwnedBy" Width="1.5" PointX="9.75" PointY="76.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Picture" Width="1.5" PointX="3" PointY="107.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.PopulationType" Width="1.5" PointX="12.75" PointY="133" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.PresentStudent" Width="1.5" PointX="9" PointY="108.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ReasonClosed" Width="1.5" PointX="6.75" PointY="79.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ReasonDisconnect" Width="1.5" PointX="0.75" PointY="105.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Reconciliation" Width="1.5" PointX="12" PointY="87.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Record" Width="1.5" PointX="15" PointY="98.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.RecordType" Width="1.5" PointX="12.75" PointY="120.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.RegisteredStudent" Width="1.5" PointX="15" PointY="93" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.RoomMapping" Width="1.5" PointX="15" PointY="103.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.RoomNo" Width="1.5" PointX="6.75" PointY="71.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.RoomType" Width="1.5" PointX="6.75" PointY="116.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolAccess" Width="1.5" PointX="15" PointY="108.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolAddress" Width="1.5" PointX="15" PointY="86.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolLevel" Width="1.5" PointX="3.75" PointY="75.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolLocated" Width="1.5" PointX="12.75" PointY="135.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolShift" Width="1.5" PointX="3.75" PointY="73.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolSpec" Width="1.5" PointX="6" PointY="85" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolStatu" Width="1.5" PointX="6.75" PointY="76.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SchoolStatus" Width="1.5" PointX="9" PointY="85.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Section" Width="1.5" PointX="0.75" PointY="95.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Section1" Width="1.5" PointX="12" PointY="110.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.SpecialFacility" Width="1.5" PointX="3" PointY="111.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.StudentAge" Width="1.5" PointX="12.75" PointY="77.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.StudentCleanliness" Width="1.5" PointX="6" PointY="112.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.StudentGender" Width="1.5" PointX="12.75" PointY="74.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Survey" Width="1.5" PointX="9.75" PointY="116.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Surveyor" Width="1.5" PointX="9" PointY="112.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.sysdiagram" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.TeacherClass" Width="1.5" PointX="3" PointY="83.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.TeacherCode" Width="1.5" PointX="0.75" PointY="86" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Teacher" Width="1.5" PointX="18" PointY="91.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.TeachersCleanliness" Width="1.5" PointX="18" PointY="98.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.TeachersComing" Width="1.5" PointX="15.75" PointY="115.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.TeachersSchoolAccess" Width="1.5" PointX="18" PointY="103.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ToiletFacility" Width="1.5" PointX="18" PointY="108.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.ToiletFunc" Width="1.5" PointX="18" PointY="86.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Toilet" Width="1.5" PointX="18" PointY="113.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.UomArea" Width="1.5" PointX="0.75" PointY="110.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.User" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Wall" Width="1.5" PointX="12" PointY="82.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Water" Width="1.5" PointX="12" PointY="115.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.WaterSource" Width="1.5" PointX="0.75" PointY="116.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.WaterSource1" Width="1.5" PointX="3" PointY="115.75" IsExpanded="true" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_AccessToSchool" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Electricities_AlternativeSource" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Areas_AreaCovered" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Areas_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Areas_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Areas_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Areas_UomArea" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Walls_BoundryWall" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_BuildingCondition" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_PresentStudents_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RoomMapping_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Sections_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeacherClasses_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_ClassMedium" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Cleanliness_Date" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Cleanliness_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Cleanliness_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Cleanliness_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Comments_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Comments_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Comments_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_ConstructionType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Councils_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Councils_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Councils_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_CurrentStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Sections_Date" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Electricities_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Electricities_ReasonDisconnect" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Electricities_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Electricities_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_EmergencyContacts_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_EmergencyContacts_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_EmergencyContacts_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_EMIS_EMIS" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_GroundSurroundings_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraOffices_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraSpecs_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_KeyPersons_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Labs_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Licensees_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_NearBys_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Picture_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_PresentStudents_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Reconciliations_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Records_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RoomMapping_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAddresses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Sections_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SpecialFacilities_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_StudentCleanliness_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Surveyors_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeacherClasses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Teachers_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersCleanliness_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersSchoolAccesses_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFacilities_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFuncs_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Toilets_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Walls_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Waters_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_WaterSources_Entity" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Teachers_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_GroundSurroundings_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_GroundSurroundings_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_HandoverAfterward" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraOffices_HandoverAfterward" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_HardArea" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Waters_Hygiene" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_RoomNo" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_RoomType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraClasses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraOffices_RoomType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraOffices_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraOffices_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraSpecs_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraSpecs_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_OwnedBy" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_InfraStructures_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_NearBys_Institutions1Km" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_KeyPersons_KeyPerson" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_KeyPersons_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_KeyPersons_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Labs_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Labs_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Licensees_LicenseeSub" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Licensees_LicenseeType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Licensees_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Licensees_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_Location" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_LocationRoad" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_Medium" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_NearBys_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_NearBys_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Picture_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Picture_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_PopulationType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_PresentStudents_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_PresentStudents_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_ReasonClosed" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Reconciliations_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Reconciliations_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Records_RecordType" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Records_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Records_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_StudentAge" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_StudentGender" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RegisteredStudents_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RoomMapping_RoomNo" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RoomMapping_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_RoomMapping_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_SchoolLocated" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAccesses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAddresses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolAddresses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_SchoolLevel" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_SchoolShift" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolSpecs_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_SchoolStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SchoolStatuses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Sections_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SpecialFacilities_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_StudentCleanliness_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Surveyors_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeacherClasses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Teachers_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersCleanliness_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersSchoolAccesses_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFacilities_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFuncs_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Toilets_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Walls_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Waters_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_WaterSources_Section" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_SpecialFacilities_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_StudentCleanliness_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Surveyors_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeacherClasses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Teachers_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersCleanliness_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersSchoolAccesses_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFacilities_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_ToiletFuncs_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Toilets_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Walls_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Waters_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_WaterSources_Survey" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeacherClasses_TeacherCode" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_Teachers_TeacherCode" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersSchoolAccesses_TeacherCode" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_TeachersSchoolAccesses_TeachersComing" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolDBModel.FK_WaterSources_WaterSource" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
